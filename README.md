@@ -1,4 +1,4 @@
-# ST23-Techie-Project-Template
+# Food price forecast for Europe
 This project serves as template for the techie projects in summerterm 2023
 
 ## Setup
