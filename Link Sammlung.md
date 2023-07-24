@@ -14,3 +14,6 @@ https://neptune.ai/blog/arima-sarima-real-world-time-series-forecasting-guide
 
 ### How to Select a Model For Your Time Series Prediction Task
 https://neptune.ai/blog/select-model-for-time-series-prediction-task
+
+### sktime
+https://github.com/sktime/sktime
