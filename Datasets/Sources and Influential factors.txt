@@ -1,0 +1,27 @@
+Sources:
+- food price - https://ec.europa.eu/eurostat/databrowser/view/PRC_HICP_MIDX__custom_7096031/default/table?lang=en
+- air_temperature - https://opendata.dwd.de/climate_environment/CDC/regional_averages_DE/monthly/air_temperature_mean/
+- precipitation - https://opendata.dwd.de/climate_environment/CDC/regional_averages_DE/monthly/precipitation/
+- electricity prices - https://ec.europa.eu/eurostat/databrowser/view/NRG_PC_205__custom_7096193/default/table
+
+
+
+
+Factors that affect food prices:
+
+- geopolitical events
+- global demand
+- exchange rates
+- government policy
+- diseases and grop yield,
+- energy costs
+- availability of natural resources for agriculture
+- food speculation
+- changes in the use of soil
+- weather events
+
+
+https://en.wikipedia.org/wiki/Food_prices#:~:text=Geopolitical%20events%2C%20global%20demand%2C%20exchange,events%20directly%20affect%20food%20prices.
+
+
+
