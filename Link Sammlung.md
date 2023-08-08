@@ -18,4 +18,14 @@ https://neptune.ai/blog/select-model-for-time-series-prediction-task
 ### sktime
 https://github.com/sktime/sktime
 
-test
+
+
+
+
+### Am ehesten relevante Kaggle-Competitions (unter Code --> nach "Most Votes" filtern)
+https://www.kaggle.com/competitions/m5-forecasting-accuracy/code?competitionId=18599&sortBy=voteCount
+https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting
+https://www.kaggle.com/competitions/store-sales-time-series-forecasting
+https://www.kaggle.com/competitions/playground-series-s3e19/overview
+https://www.kaggle.com/competitions/tabular-playground-series-jan-2022
+https://www.kaggle.com/competitions/rossmann-store-sales/overview
