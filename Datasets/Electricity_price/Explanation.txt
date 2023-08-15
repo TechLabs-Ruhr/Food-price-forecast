@@ -1,0 +1,10 @@
+The data is divided by energy consumption:
+- Consumption less than 20MWh
+- Consumption from 20 MWh to 499 MWh
+- Comsumption from 500 MWh to 1999 MWh
+- Consumption from 2000 MWh to 19999 MWh
+- Consumption from 20000 MWh to 69999 MWh
+- Consumption from 70000 MWh to 149999 MWh
+- Consumption 150000 MWh or over
+
+An average is taken over all data
