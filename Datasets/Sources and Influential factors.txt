@@ -3,6 +3,7 @@ Sources:
 - air_temperature - https://opendata.dwd.de/climate_environment/CDC/regional_averages_DE/monthly/air_temperature_mean/
 - precipitation - https://opendata.dwd.de/climate_environment/CDC/regional_averages_DE/monthly/precipitation/
 - electricity prices - https://ec.europa.eu/eurostat/databrowser/view/NRG_PC_205__custom_7096193/default/table
+- exchange rate - https://ec.europa.eu/eurostat/databrowser/view/ERT_BIL_EUR_M__custom_7179516/default/table?lang=en 
 
 
 
