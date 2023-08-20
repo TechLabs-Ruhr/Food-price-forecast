@@ -1,1 +1,2 @@
-
+The excel file contains the unchanged data downloaded directly from Eurostat (source: https://ec.europa.eu/eurostat/databrowser/view/STS_INPPD_M/default/table?lang=en)
+Sadly, Eurostat's description of said data is quite inconsistent constantly changing from 'producer prices' to 'output prices'. In the jupyter file I chose producer prices as an apt way to describe the data.
