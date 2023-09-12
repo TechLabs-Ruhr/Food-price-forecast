@@ -2,11 +2,9 @@
 
 3 different Models, up till now somewhat similar quality of results. multivariate model still has to be investigated.
 
-Pipeline for data processing: 
+Pipeline for data (pre)processing: 
 
-one python file called forecast_main.py which includes:
-
-- pipeline from jacob to preprocess data, with option to choose the name of the variable (column) that shall be processed and that clears data format. also there should be options (flags) for what shall be processed
+- pipeline from jacob to preprocess data, with option to choose the name of the variable (column) that shall be processed and that clears data format. also there should be options for what shall be processed
 - possible functions that could be added to the pipeline:
     
     1. remove outliers, depending on plots
