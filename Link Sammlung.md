@@ -1,6 +1,6 @@
 
 
-## Hier nützliche Links rein
+## Useful Links
 
 
 ### LSTM (Long Short-Term Memory) Model for Time-Series Analysis:
@@ -29,3 +29,8 @@ https://www.kaggle.com/competitions/store-sales-time-series-forecasting
 https://www.kaggle.com/competitions/playground-series-s3e19/overview
 https://www.kaggle.com/competitions/tabular-playground-series-jan-2022
 https://www.kaggle.com/competitions/rossmann-store-sales/overview
+
+
+
+### Knapp 14 Jahre alt und auf die US bezogen, aber die (wirtschaftliche) Analyse der Time Series könnte vielleicht ganz interessant sein:
+https://books.googleusercontent.com/books/content?req=AKW5QadtsQ5zT2gT0yLr-6uqvQbMXG5grxx_zQQ0u7isiFJre4T6VpnllBKiuLk65DUt0FfV8L3h9bldA4Oa9KjvozqKoBiGCKrX6pYQQnCjlqOn9g5YBujt0QWIC2dawA-E1voNzVDTKCjAo3QY4UeE3D2GkwvmM0G3acnWedl2TV0Gv2jh_wBI4arV4o0VKeZGOVyuf8Wc-MA_7cvkh4OYa_melJZp48A-WM3xFzBr0g28m4UI6wPbKFXlCu2DlHfanDP2iJKWLcjW1EO-OW7WAm6iDAsoQA
