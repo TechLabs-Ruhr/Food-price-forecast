@@ -1,10 +1,28 @@
 # Food-Prices across Europe: An exploratory analysis tool
-
 The following README is divide into two parts:
 
 1. [Eurostat Data Analysis](#eurostat-data-analysis)
 
 2. [XGB Regressor Model - Forecast](#xgb-regressor-model---forecast)
+
+## Repository
+
+- [Analysis Tool](Analysis_Tool.ipynb) - Instruction: [Part1](#usage-of-the-eurostat-data-query) / [Part2](#usage-of-the-xgb-regressor-model) - final project
+- [Data set for the oil price](Datasets/Oil_price/Brent.csv)
+- [Data sets for the precipitation](Datasets/Weather_data/Precipitation)
+- [Data sets for the temperature ](Datasets/Weather_data/Temperature)
+- [Weather Data Pipeline - First Version](Datasets/Weather_data/weather_data_pipeline.ipynb)
+- [Link collection](Link_collection.md) <br>
+<br>
+
+The following files did not make it into the final project, but were kept for future enhancements:
+
+- [Granger Causality Test](Granger_Causality_Impulse_Response_Function_updated.ipynb)
+- [Forecast with LSTM](multivariate_LSTM_scaled_grid_search.ipynb)
+- [Forecast with Sktime](Foodforecast_with_sktime.ipynb)
+
+
+
 
 ## Prerequisites
 Before running the script, make sure you have the following libraries installed:
