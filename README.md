@@ -148,6 +148,7 @@ The code provides a configuration section where you can customize various parame
 - Whether to use cross-validation (`use_cv`) and whether to show cross-validation splits (`show_cv_split`).
 - Number of splits and test size for cross-validation.
 - The split time for separating training and test data.
+- enable the option to "look into the future": this uses a framework that can also be used to look into the future, but it is currently hard coded to make a prediction for the time after 2021 that is in the following plotted to see the big influence of the ukraine war on the quality of the prediction
 
 After configuring the parameters, the code runs the data through the defined pipeline, which includes data preprocessing, model training, and evaluation.
 
