@@ -110,7 +110,7 @@ The code starts by adjusting the input data frame to prepare it for modeling. Sp
 
 ## Setting up the Estimators for the Pipeline
 
-The code defines several custom transformers as part of the data preprocessing pipeline. These transformers perform various tasks:
+The code defines several custom transformers as part of the data preprocessing pipeline. Depending on the wanted analysis parts of the pipeline can be commented out. The transformers perform various tasks:
 
 - `ConvertDateTime`: Converts the date column to a datetime format.
 - `DropPost21`: Filters data entries beyond a certain date (post-2021-11 in this case).
@@ -165,6 +165,6 @@ To use this code:
 
 # Outlook
 * The code includes custom transformers and a preprocessing pipeline for handling weather data (temperature and precipitation) for Germany. This part of the code may be extended or modified for other countries.
-* The code currently supports the XGBoost regressor model. In the future, it can be extended to include other machine learning models such as sktime or LSTM.
-* The code is currently set up for only a univariate prediction. A multivariate time series prediction may be aded. 
-* Presently there is no option to grid search for hyperparameter tuning. This may be added in the future
+* The code currently supports the XGBoost regressor model. In the future, it can be extended to include other machine learning models such as sktime or LSTM, which were also tested and can be found in the repository. They were not yet added to the pipeline.
+* The code is currently set up for only a univariate prediction. A multivariate time series prediction may be added. 
+* Presently there is no option to grid search for hyperparameter tuning. We tested this method in combination with the LSTM-Model but it is not yet part of the pipeline.
